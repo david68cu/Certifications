@@ -2,8 +2,9 @@
 
 Attached are the copy of the certifications and links to validate them( both the valids and the expired ones)
 
-**Valids certifications**
-This is the list of valid certifications
+## Valids certifications
+
+This is the list of **current certifications**
 
   1. [Machine Learning](https://graduation.udacity.com/confirm/5H6DR2VH)
   2. [Full Stack Developer](https://graduation.udacity.com/confirm/SJTMAG6K)
@@ -11,8 +12,9 @@ This is the list of valid certifications
   4. Stanford University Security Profesional Certificate
   5. Stanford University Security Profesional Certificate
 
-**Expired certifications**
-All these certifications are expired
+## Expired certifications
+
+All these certifications are **expired**
 They  can be verified online [1] in one place,  or individually at each URL [here](https://www.youracclaim.com/users/david-gutierrez.38d9e4cb)
 
   6.  [GIAC Mobile Device Security Analyst GMOB](https://www.youracclaim.com/earner/earned/badge/ce78cded-228f-453a-a199-f54e996b459e)
