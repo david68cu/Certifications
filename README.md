@@ -13,8 +13,7 @@ This is the list of valid certifications
 
 **Expired certifications**
 All these certifications are expired
-They  can be verified online [1] in one place,  or individually at each URL indicate below.
-[1](https://www.youracclaim.com/users/david-gutierrez.38d9e4cb)
+They  can be verified online [1] in one place,  or individually at each URL [here](https://www.youracclaim.com/users/david-gutierrez.38d9e4cb)
 
   6.  [GIAC Mobile Device Security Analyst GMOB](https://www.youracclaim.com/earner/earned/badge/ce78cded-228f-453a-a199-f54e996b459e)
   7.  [GIAC Certified Inciden handler GCIH](https://www.youracclaim.com/badges/287c877a-26ce-49bf-9768-5cbffd4a1433)
