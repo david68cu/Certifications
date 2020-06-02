@@ -17,6 +17,7 @@ This is the list of **current certifications**
 All these certifications are **expired**.
 
 They  can be verified online in one place,   [here](https://www.youracclaim.com/users/david-gutierrez.38d9e4cb)
+
 You can use the link below to verify each of them individually
 
   6.  [GIAC Mobile Device Security Analyst GMOB](https://www.youracclaim.com/earner/earned/badge/ce78cded-228f-453a-a199-f54e996b459e)
