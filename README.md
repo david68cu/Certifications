@@ -6,12 +6,12 @@ Attached are the copies of the certifications and links to validate them( both t
 
 This is the list of **current certifications**
 
-  1. Amazon AWS  Cloud  Architect.
+  1. [Amazon AWS  Cloud  Architect](https://confirm.udacity.com/3CTKXSDA).
   2. [Machine Learning](https://graduation.udacity.com/confirm/5H6DR2VH)
   3. [Full-Stack Developer](https://graduation.udacity.com/confirm/SJTMAG6K)
   4. [Front End Developer](https://graduation.udacity.com/confirm/CC3KGSDH)
-  5. Stanford University Security Profesional Certificate
-  6. Stanford University Security Profesional Certificate
+  5. Stanford University Computer Security Profesional Certificate
+  6. Stanford University Software Security Profesional Certificate
 
 ## Expired certifications
 
@@ -49,5 +49,5 @@ You can see my talks in https://www.pymiami.org
 
 ## Machine Learning:
 
-  - Machine Learning engineer.
+  - Machine Learning engineer 
 
