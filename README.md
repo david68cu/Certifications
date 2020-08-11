@@ -30,7 +30,7 @@ You can use the link below to verify each of them individually
 
 ## Books:
 
-- Python Async I/O . A quick introduction to Python Async I/O framework
+- [Python Async I/O . A quick introduction to Python Async I/O framework](https://www.amazon.com/Python-Async-quick-introduction-Concurrency-ebook/dp/B08B8WG3M8)
 
 ## Talks :
 
