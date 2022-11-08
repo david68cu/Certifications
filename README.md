@@ -8,12 +8,13 @@ This is the list of **current certifications**
 
   1. [Data Structure and Algorithm](https://confirm.udacity.com/UG9AFWHH).
   2. [Amazon AWS  Developer](https://confirm.udacity.com/KSTLCCDD).
-  3. [Amazon AWS  Cloud  Architect](https://confirm.udacity.com/3CTKXSDA)
+  3. [Amazon AWS  Cloud  Architect Udacity](https://confirm.udacity.com/3CTKXSDA)
   4. [Machine Learning](https://graduation.udacity.com/confirm/5H6DR2VH)
   5. [Full-Stack Developer](https://graduation.udacity.com/confirm/SJTMAG6K)
   6. [Front End Developer](https://graduation.udacity.com/confirm/CC3KGSDH)
   7. [Stanford University Computer Security Professional Certificate](https://github.com/david68cu/Certifications/blob/master/STANFORD%20UNIVERSITY%20CERTIFICATES.PDF)
   8. [Stanford University Software Security Professional Certificate](https://github.com/david68cu/Certifications/blob/master/STANFORD%20UNIVERSITY%20CERTIFICATES.PDF)
+  9. [AWS Clous Solution Architect Associated ](https://www.credly.com/badges/af944cc6-9671-40ed-9b2d-85547e4874fb/public_url)
 
 ## Expired certifications
 
