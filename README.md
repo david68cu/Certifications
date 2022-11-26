@@ -46,9 +46,7 @@ You can see my talks in [PyMiami talks](https://www.pymiami.org)
 
 ## Applications I've created both  at the company and in the cloud
 
-- App # 1: Application Security Framework( React/Redux/LDAP authentication, JWT authorization, Python , Postgres, Redis ,Celery , Docker deployment on-premise)
-- App # 2 : App Inventory
-- App # 3 : https://www.pymiami.org (AWS Serverless architecture ,Microservices ,AWS lambda, AWS API gateway , Google reCAPTCHA, AWS SNS, AWS CloudFront CDN,  Cloud Formation , S3  React/Redux , AWS WAF and DDoS protection, Cloud Trail and more)
+- [Personal Web site](https://www.david.website)
 
 ## Machine Learning
 
