@@ -35,20 +35,16 @@ You can use the link below to verify each of them individually.
 
 ## Books
 
-- [Python Async I/O . A quick introduction to Python Async I/O framework](https://www.amazon.com/Python-Async-quick-introduction-Concurrency-ebook/dp/B08B8WG3M8)
+- [Python Async I/O. A quick introduction to Python Async I/O framework](https://www.amazon.com/Python-Async-quick-introduction-Concurrency-ebook/dp/B08B8WG3M8)
 
 ## Talks
 
 You can see my talks in [PyMiami talks](https://www.pymiami.org)
 
 - What a Python programmer should know about hashing
-- AWS Serverless Architecture. Lesson Learned from deployment of PyMiami.org
+- AWS Serverless Architecture. Lesson Learned from the deployment of PyMiami.org
 - Python Concurrency part 1 "Threads"
 - Python Concurrency part 2 "Async I/O"
-
-## Applications I've created both  at the company and in the cloud
-
-- [Personal Web site](https://www.david.website)
 
 ## Machine Learning
 
