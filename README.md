@@ -18,6 +18,10 @@ This is the list of **current certifications**
   10. [AWS Cloud Security Specialist](https://www.credly.com/badges/4c7a918e-0f1a-43da-8d25-f81901d2d4aa/public_url)
   11. [AWS Certified Machine Learning – Specialty](https://www.credly.com/earner/earned/badge/8d4b49ab-1f4b-486f-9d02-36536972f817)
   12. [AWS Certified DevOps Engineer – Professional](https://www.credly.com/earner/earned/badge/bad3fd8a-9f51-4f78-bd5b-9282b05814c0)
+  13. [LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery)[https://www.credly.com/earner/earned/badge/b6bbb39b-bff7-4fff-be57-6bfe54b1a23a]
+  14. [LFS458: Kubernetes Administration](https://www.credly.com/earner/earned/badge/5e567f86-9549-482e-9379-0c50a7f4339b)
+  15. [University of Illinois UC C++ Advanced Data Structure and Algorithm](https://www.coursera.org/account/accomplishments/specialization/ZO5I7IZFCW7E)
+  16. [University of London C++ Object Oriented Programming ](https://www.coursera.org/account/accomplishments/specialization/ZO5I7IZFCW7E)
 
 ## Expired certifications
 
